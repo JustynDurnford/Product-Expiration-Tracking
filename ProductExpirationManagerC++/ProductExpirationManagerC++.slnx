@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ProductExpirationManagerC++.vcxproj" Id="d7916618-a3b7-436d-a582-bd0a1593d231" />
+</Solution>
